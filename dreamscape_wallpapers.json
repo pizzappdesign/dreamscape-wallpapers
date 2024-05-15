@@ -1,5 +1,205 @@
 [
         {
+            "name":"Cars1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars1.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars2.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars3.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars4.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars5.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars6.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars7.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars8.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars9.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars9.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars10.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars10.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars11.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars11.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars12.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars12.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars13.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars13.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars14.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars14.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars15.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars15.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars16.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars16.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars17",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars17.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars17.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars18",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars18.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars18.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars19",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars19.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars19.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Cars20",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Cars/Cars20.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Cars/Cars20.jpg",
+            "collections":"Cars",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Spring_Break1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spring_Break/Spring_Break1.jpg",
 			"author":"PizzApp Design",
