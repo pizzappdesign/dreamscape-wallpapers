@@ -1,5 +1,205 @@
 [
         {
+            "name":"Beach1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach1.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach2.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach3.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach4.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach5.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach6.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach7.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach8.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach9.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach9.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach10.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach10.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach11.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach11.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach12.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach12.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach13.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach13.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach14.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach14.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach15.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach15.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach16.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach16.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach17",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach17.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach17.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach18",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach18.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach18.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach19",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach19.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach19.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Beach20",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Beach/Beach20.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Beach/Beach20.jpg",
+            "collections":"Beach",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Summer_Season1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Summer_Season/Summer_Season1.jpg",
 			"author":"PizzApp Design",
