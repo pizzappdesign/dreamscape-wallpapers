@@ -1,5 +1,185 @@
 [
         {
+            "name":"Spooky_Cartoon1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon1.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon2.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon3.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon4.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon5.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon6.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon7.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon8.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon9.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon10.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon10.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon11.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon11.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon12.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon12.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon13.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon13.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon14.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon14.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon15.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon15.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon16.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon16.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon17",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon17.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon17.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon18",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon18.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon18.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon19",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon19.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon19.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Cartoon20",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon20.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon20.jpg",
+            "collections":"Spooky_Cartoon",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Spooky_Characters1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Characters/Spooky_Characters1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Characters/Spooky_Characters1.jpg",
