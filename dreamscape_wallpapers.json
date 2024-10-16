@@ -1,5 +1,185 @@
 [
         {
+            "name":"Spooky_Minimal1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal1.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal2.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal3.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal4.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal5.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal6.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal7.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal8.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal9.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal10.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal10.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal11.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal11.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal12.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal12.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal13.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal13.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal14.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal14.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal15.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal15.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal16.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal16.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal17",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal17.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal17.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal18",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal18.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal18.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal19",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal19.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal19.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Spooky_Minimal20",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Minimal/Spooky_Minimal20.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Minimal/Spooky_Minimal20.jpg",
+            "collections":"Spooky_Minimal",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Spooky_Cartoon1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Cartoon/Spooky_Cartoon1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Cartoon/Spooky_Cartoon1.jpg",
