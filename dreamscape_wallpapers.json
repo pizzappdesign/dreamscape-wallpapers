@@ -1,5 +1,185 @@
 [
-        {
+		{
+            "name":"Aesthetic1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic1.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic2.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic3.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic4.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic5.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic6.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic7.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic8.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic9.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic10.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic10.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic11.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic11.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic12.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic12.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic13.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic13.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic14.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic14.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic15.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic15.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic16.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic16.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic17",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic17.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic17.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic18",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic18.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic18.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic19",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic19.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic19.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Aesthetic20",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Aesthetic/Aesthetic20.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Aesthetic/Aesthetic20.jpg",
+            "collections":"Aesthetic",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Spooky_Background1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Wallpapers/Spooky_Background/Spooky_Background1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/dreamscape-wallpapers/main/Thumbnails/Spooky_Background/Spooky_Background1.jpg",
